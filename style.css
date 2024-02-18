@@ -1,5 +1,12 @@
+
+@font-face {
+  font-family: face;
+  src: url(./Buttermilk.woff2);
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: face;
 }
